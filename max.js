@@ -22,3 +22,4 @@ else {
         console.log("Software-farm-owner is richer then other...");
     }
 }
+
