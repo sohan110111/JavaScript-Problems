@@ -9,5 +9,5 @@ console.log("McDonalds".split("").reverse().join(" ")); // code from StackOverFl
 
 // here given below an example from w3school.com
 var str = "How are you doing today?";
-var res = str.split("");
+var res = str.split(" ");
 console.log(res);
