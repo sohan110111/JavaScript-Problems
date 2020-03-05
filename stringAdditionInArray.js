@@ -5,5 +5,3 @@ for(var i = 0; i < friends.length; i++) {
     stringAdd = stringAdd + friends[i];
 }
 console.log(stringAdd);
-
-
